@@ -7,9 +7,9 @@ https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **side cup family project**
+- 🔭 I’m currently working on **Gemini-Ai project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js/Next.js**
 
 - 👯 I’m looking collaborative **with fellow developers on exciting projects**
 
@@ -17,7 +17,7 @@ https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f
 
 - 👨‍💻 All of my projects are available at [https://abhayhttp89.github.io/responsive-portfolio/](https://abhayhttp89.github.io/responsive-portfolio/)
 
-- 💬 Ask me about **web development, c++**
+- 💬 Ask me about **web development, PHP, MYSql**
 
 - 📫 How to reach me **Abhay16105990@gmail.com**
 
